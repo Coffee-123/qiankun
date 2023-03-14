@@ -8,8 +8,8 @@
 
 微应用1 qiankun-app1
 微应用2 qiankun-app2
-微应用3 qiankun-app3
-微应用4 qiankun-vue3-app3
+微应用3 qiankun-vue3-app3
+
 
 #### 安装教程
 
